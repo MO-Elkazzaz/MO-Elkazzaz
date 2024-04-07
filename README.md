@@ -1,4 +1,20 @@
-<h1 align="center">Hi 👋! My name is Mohammed Elkazzaz.</h1>
+<h1 align="center">Hi 👋! My name is Mohammed Elkazzaz 😉.</h1>
+
+###
+
+<h2>About Me</h2> 
+I am a high school student and I am 16. I have many hobbies, such as reading 📚, playing basketball 🏀, and playing chess ♟ as well.
+I like coding and creating cool stuff. 🚀
+
+<h2>Current Focus</h2> 
+Right now, I focus with cyber security 👨‍💻. It's a thrilling adventure, and I'm loving every moment of it! 💻
+
+<h2>Fun Facts</h2>
+<ul>
+<li>🌟 I believe in the magic of turning ideas into reality through code.
+<li>📚 Learning is my superpower 💪, and I'm always hungry for new knowledge.
+<li>🌱 When I'm not coding, you'll find me coding 🙃.
+</ul>
 
 ###
 
