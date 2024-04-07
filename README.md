@@ -57,7 +57,7 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="17" />
+  <img width="17" /> <br>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo"  />
@@ -81,8 +81,6 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
