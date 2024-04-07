@@ -52,7 +52,7 @@ Right now, I focus with cyber security 👨‍💻. It's a thrilling adventure, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="33" alt="canva logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="33" alt="adobeillustrator logo"  />
-  <img width="17" />
+  <img width="17" /> <br>
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="33" alt="anaconda logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="33" alt="git logo"  />
