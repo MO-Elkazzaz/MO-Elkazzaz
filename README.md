@@ -36,7 +36,6 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
 ###
 
 <div align="left">
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
