@@ -3,7 +3,7 @@
 
 ###
 
-<h2>About Me</h2> 
+<h2>About Me</h2>
 I am a high school student and I am 16. I have many hobbies, such as reading 📚, playing basketball 🏀, and playing chess ♟ as well.
 I like coding and creating cool stuff. 🚀
 
@@ -18,6 +18,8 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
 </ul>
 
 ###
+<br>
+<h1 align="center">Statistics</h1> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MO-Elkazzaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -26,6 +28,8 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
 </div>
 
 ###
+
+<h1 align="center">Skills</h1>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
@@ -86,6 +90,8 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
 </div>
 
 ###
+
+<h1 align="center">Keep in touch</h1>
 
 <div align="left">
   <a href="https://www.facebook.com/profile.php?id=100075916736744" target="_blank">
