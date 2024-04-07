@@ -117,5 +117,14 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
 ###
 
 <img src="https://raw.githubusercontent.com/MO-Elkazzaz/MO-Elkazzaz/output/snake.svg" alt="Snake animation" />
+<br>
+
+###
+
+<h1 align="center">Profile Views</h1> 
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/MO-Elkazzaz/count.svg"
+</div>
 
 ###
