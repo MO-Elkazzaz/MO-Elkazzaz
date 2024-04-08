@@ -98,10 +98,13 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
   <a href="https://www.facebook.com/profile.php?id=100075916736744" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/mo-elkazzaz-1a2b38271/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <a href="https://www.youtube.com/@Gaming_Hub_Channel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/mo.elkazzaz.15" target="_blank">
+  <a href="https://www.instagram.com/mo.elkazzaz.15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/201019949608" target="_blank">
