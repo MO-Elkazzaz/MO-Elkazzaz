@@ -18,7 +18,6 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
 </ul>
 
 ###
-<br>
 <h1 align="center">Statistics</h1> 
 
 <div align="center">
