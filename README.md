@@ -56,7 +56,7 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="45" alt="adobeillustrator logo"  />
-  <img width="17" />
+  <img width="17" /> 
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="45" alt="anaconda logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
@@ -88,9 +88,11 @@ Right now, I focus on cyber security 👨‍💻. It's a thrilling adventure, an
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="45" alt="android logo"  />
   <img width="17" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
-</div>
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="godot logo"  /> </div>
 
 ###
+
 <br>
 <h1 align="center">Keep in touch</h1>
 
