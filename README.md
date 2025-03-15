@@ -4,7 +4,7 @@
 ###
 
 <h2>About Me</h2>
-I am a high school student and I am 16. I have many hobbies, such as reading 📚, playing basketball 🏀, and playing chess ♟ as well.
+I am a high school student and I am 17. I have many hobbies, such as reading 📚, playing basketball 🏀, and playing chess ♟ as well.
 I like coding and creating cool stuff. 🚀
 
 <h2>Current Focus</h2> 
